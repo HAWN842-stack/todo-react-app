@@ -179,7 +179,7 @@ Feel free to check the [issues page](../../issues/).
 
 <!-- SUPPORT -->
 
-## ⭐️ Show your support <a name="support"></a>
+## ⭐️ Show yours support <a name="support"></a>
 
 If you like this project, kindly drop a star for me.
 
